@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Screen Break Prank</string>
+    <string name="notification_channel_name">Broken Screen Overlay</string>
+    <string name="notification_channel_desc">Active prank overlay notification with quick stop control</string>
+    <string name="notification_title">Broken Screen Prank Active</string>
+    <string name="notification_text">Distorted overlay is running. Tap to stop.</string>
+    <string name="action_stop_overlay">Stop Prank</string>
+</resources>

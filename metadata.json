@@ -1,0 +1,7 @@
+{
+  "name": "Screen Break Prank",
+  "description": "Broken screen prank overlay simulator with flickering glitch lines, shattered glass cracks, and LCD distortions using display over other apps permission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
